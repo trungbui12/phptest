@@ -38,8 +38,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 <body>
     <div class="container mt-4">
-        <h3 class="text-center text-warning mt-3">Danh sách sản phẩm</h3>
-        <a href="add_item.php" class="btn btn-danger mb-3">Thêm sản phẩm mới</a>
+        <h3 class="text-center text-warning mt-3">item sale</h3>
+        <a href="add_item.php" class="btn btn-danger mb-3">add new</a>
         <table class="table table-bordered text-center">
             <thead>
                 <tr>
